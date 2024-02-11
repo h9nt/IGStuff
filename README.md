@@ -1,7 +1,8 @@
 # IGStuff
-> Some utils for Instagram
 
-### Some Results how it eould looks.
+### How it work , just look in /utils/base.py at the IgEncryptions class.
+
+### Some Results how it would looks.
 ```json
 
  Password >>> instagram
