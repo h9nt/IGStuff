@@ -36,7 +36,8 @@ class IGUtils(object):
     def __x_mid() -> str:
         return "".join([IGUtils.base36(randint(2**29, 2**32), 36) for _ in range(8)])
 
-class IgEncryptions(): # Idk how long his apis would work.
+
+class IgEncryptions(): # Idk how long his apis would work & Credits to godxgamer for the api.
     @staticmethod
     def _igapp(password: str, version: int) -> str:
         try:
