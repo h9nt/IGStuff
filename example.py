@@ -1,4 +1,4 @@
-from utils.base import IgEncryptions
+from utils.main import IgEncryptions
 
 password = input("\n Password >>> ")
 version = 1
